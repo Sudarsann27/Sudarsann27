@@ -9,11 +9,12 @@ An enthusiastic and aspiring data analyst with a passion for transforming raw da
 
 🔍 Skills:
 
-Technical Skills
+. Technical Skills
 
-SQL
-Python
-Data analysis skills
+- SQL
+- Python
+  
+. Data analysis skills
 
 MS Excel
 Power BI
